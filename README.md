@@ -4,5 +4,5 @@ Multi-segmented soft robotic actuators can replicate the dexterity of human and 
 * **Algorithm Architecture**
 
 <div align="center">
-  <img src="https://github.com/nk-16/Multi-segment-soft-actuator-design-optimization-using-sequential-lexicographic-surrogate-assisted-GA/blob/main/Flowchart.png" alt="Image 1" width="700"/>
+  <img src="https://github.com/nk-16/Multi-segment-soft-actuator-design-optimization-using-sequential-lexicographic-surrogate-assisted-GA/blob/main/Flowchart.png" alt="Image 1" width="1000"/>
 </div>
